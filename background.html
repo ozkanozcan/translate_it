@@ -1,0 +1,5 @@
+<script>
+function cevir(info)
+{ chrome.tabs.create({url: "http://translate.google.com/?tl=tr&text=" + info.selectionText})}
+chrome.contextMenus.create({title: "TranslateIt", contexts:["selection"], onclick: cevir});
+</script>
