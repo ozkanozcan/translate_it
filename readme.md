@@ -1,10 +1,10 @@
 translateit
 ===========
 
-translate it isimli chrome için google çeviri aracıdır.
-Ali Oğul (@aliogul)'un isteği üzerine geliştirilmiştir.
+translate it isimli chrome iÃ§in google Ã§eviri aracÄ±dÄ±r.
+Ali OÄŸul (@aliogul)'un isteÄŸi  Ã¼zerine geliÅŸtirilmiÅŸtir.
 
-şu adresten edinebilirsiniz 
+Åu adresten edinebilirsiniz 
 https://chrome.google.com/webstore/detail/translateit/mikgfekphnonmpfcoehflhpmgockpekp
 
-Dilediğiniz gibi kullanabilir istediğiniz dibi değiştirip yayabilirsiniz.
+DilediÄŸiniz gibi kullanabilir istediÄŸiniz dibi deÄŸiÅŸtirip yayabilirsiniz.
